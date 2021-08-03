@@ -27,14 +27,14 @@
       #t_3_2.h4 3.2 	Principales sistemas operativos y sus características
     figure
       img(src="@/assets/template/tema-3-9.png" , alt="Texto que describa la imagen")
-    p.mt-4 La evolución y transformación de los principales sistemas operativos acompañan el proceso de crecimiento de los dispositivos móviles. Estos, a su vez y de manera paralela, deben realizar su adaptación a la misma regularidad con que lo hace el hardware, buscando adecuarse y ofrecer mejor rendimiento, mayor seguridad y efectividad a la hora de la implementación. Algunos sistemas operativos no lograron seguir los cambios frenéticos que exige esta carrera tecnológica y desaparecieron; otros, con gran esfuerzo, son los líderes del mercado, pero su trabajo de transformación es constante para mantenerse vigente.
+    p.mt-4 La evolución y transformación de los principales sistemas operativos acompañan el proceso de crecimiento de los dispositivos móviles. Estos, a su vez y de manera paralela, deben realizar su adaptación a la misma regularidad con que lo hace el <i>hardware</i>, buscando adecuarse y ofrecer mejor rendimiento, mayor seguridad y efectividad a la hora de la implementación. Algunos sistemas operativos no lograron seguir los cambios frenéticos que exige esta carrera tecnológica y desaparecieron; otros, con gran esfuerzo, son los líderes del mercado, pero su trabajo de transformación es constante para mantenerse vigente.
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-azul-claro").mt-5
       .row(titulo="Symbian")
         .col-4.col-lg-3.offset-4.offset-lg-0.align-self-center
           figure
             img(src="@/assets/template/tema-3-10.png", alt="Texto que describa la imagen")
         .col-12.col-lg-9
-          p Fue producto de la alianza de Nokia, Sony Ericsson, Samsung, Siemens, BenQ, Fujitsu, Lenovo, LG, Motorola, esta alianza le permitió en un momento dado ser unos de los pioneros y más usados sistemas operativos. Symbian es una colección compacta de código ejecutable y varios archivos, la mayoría de ellos son archivos DLL (bibliotecas vinculadas dinámicamente) y otros datos requeridos, incluyendo archivos de configuración, de imágenes y de tipografía, entre otros recursos. Symbian se almacenaba, en un circuito flash dentro del dispositivo móvil, este tipo de tecnología permitía conservar la información, aunque el sistema no tuviese carga eléctrica, y permitía la reprogramación, sin necesidad de separarla de los demás circuitos. Las aplicaciones para Symbian se desarrollaron a partir de lenguajes de programación orientados a objetos como C + +, Java (con sus variantes como PJava, J2ME, etc.), Visual basic para dispositivos móviles.
+          p Fue producto de la alianza de Nokia, Sony Ericsson, Samsung, Siemens, BenQ, Fujitsu, Lenovo, LG, Motorola, esta alianza le permitió en un momento dado ser unos de los pioneros y más usados sistemas operativos. Symbian es una colección compacta de código ejecutable y varios archivos, la mayoría de ellos son archivos DLL (bibliotecas vinculadas dinámicamente) y otros datos requeridos, incluyendo archivos de configuración, de imágenes y de tipografía, entre otros recursos. Symbian se almacenaba, en un circuito flash dentro del dispositivo móvil, este tipo de tecnología permitía conservar la información, aunque el sistema no tuviese carga eléctrica, y permitía la reprogramación, sin necesidad de separarla de los demás circuitos. Las aplicaciones para Symbian se desarrollaron a partir de lenguajes de programación orientados a objetos como C + +, Java (con sus variantes como PJava, J2ME, etc.), Visual <i>basic</i> para dispositivos móviles.
 
       div(titulo="Firefox OS")
         .row
@@ -42,7 +42,7 @@
             figure
               img(src="@/assets/template/tema-3-11.png", alt="Texto que describa la imagen")
           .col-12.col-lg-9
-            p Fue producto de la alianza de Nokia, Sony Ericsson, Samsung, Siemens, BenQ, Fujitsu, Lenovo, LG, Motorola, esta alianza le permitió en un momento dado ser unos de los pioneros y más usados sistemas operativos. Symbian es una colección compacta de código ejecutable y varios archivos, la mayoría de ellos son archivos DLL (bibliotecas vinculadas dinámicamente) y otros datos requeridos, incluyendo archivos de configuración, de imágenes y de tipografía, entre otros recursos. Symbian se almacenaba, en un circuito flash dentro del dispositivo móvil, este tipo de tecnología permitía conservar la información, aunque el sistema no tuviese carga eléctrica, y permitía la reprogramación, sin necesidad de separarla de los demás circuitos. Las aplicaciones para Symbian se desarrollaron a partir de lenguajes de programación orientados a objetos como C + +, Java (con sus variantes como PJava, J2ME, etc.), Visual basic para dispositivos móviles.
+            p Es desarrollado por Mozilla Corporation bajo el apoyo de otras empresas como Telefónica y una gran comunidad de voluntarios de todo el mundo. Es un sistema operativo móvil, fundamentado en HTML5 con núcleo Linux, de código abierto, para <i>smartphones</i>y tabletas. Este sistema operativo está enfocado especialmente en los dispositivos móviles incluidos los de gama baja. Está diseñado para permitir a las aplicaciones HTML5 comunicarse directamente con el hardware del dispositivo usando JavaScript y Open Web APIs. Ha sido montado en <i>smartphones</i>y Raspberry Pi, compatibles con Adroid.
       div(titulo="BlackBerry")
         .row
           .col-4.col-lg-3.offset-4.offset-lg-0.align-self-center
@@ -56,7 +56,7 @@
             figure
               img(src="@/assets/template/tema-3-13.png", alt="Texto que describa la imagen")
           .col-12.col-lg-9
-            p Ubuntu Touch SO está basado en Linux. La empresa Canonical Ltda. lo desarrolló y presentó al mercado y al público consumidor en enero del año 2013 mediante un anuncio en el mismo sitio web de Ubuntu. Es de anotara que ya culminó el proceso de Canonical, de desarrollar una interfaz lista para ser usada en computadoras de sobremesa, en equipos portátiles, netbooks, en tablets y, por supuesto, en smartphones.
+            p Ubuntu Touch SO está basado en Linux. La empresa Canonical Ltda. Lo desarrolló y presentó al mercado y al público consumidor en enero del año 2013 mediante un anuncio en el mismo sitio web de Ubuntu. Es de anotar que ya culminó el proceso de Canonical, de desarrollar una interfaz lista para ser usada en computadoras de sobremesa, en equipos portátiles, <i>netbooks</i>, en <i>tablets</i> y, por supuesto, en <i>smartphones</i>.
       div(titulo="Windows Phone")
         .row
           .col-4.col-lg-3.offset-4.offset-lg-0.align-self-center
@@ -71,14 +71,14 @@
             figure
               img(src="@/assets/template/tema-3-15.png", alt="Texto que describa la imagen")
           .col-12.col-lg-9
-            p Creado por Android Inc. en el año 2003, entre el año 2005 y el 2007 la compañía Google la adquirió y realizó su lanzamiento al mercado tecnológico. El nombre que recibe hace referencia directa a la persona que lo inventó, Andy Rubin. En el comienzo, este sistema estaba pensado para usarlo en las cámaras digitales. El Android se basa en Linux, pero Google lo modificó para que fuera usado luego en los teléfonos móviles y, posteriormente, en tablets; su anuncio y lanzamiento fue hecho en el año 2007 y ya para el año 2008 fue liberado. El conjunto de aplicaciones que están hechas para un sistema operativo Android, se escriben y desarrollan en Java, sin embargo, cuenta con APIS propias.
+            p Creado por Android Inc. en el año 2003, entre el año 2005 y el 2007 la compañía Google la adquirió y realizó su lanzamiento al mercado tecnológico. El nombre que recibe hace referencia directa a la persona que lo inventó, Andy Rubin. En el comienzo, este sistema estaba pensado para usarlo en las cámaras digitales. El Android se basa en Linux, pero Google lo modificó para que fuera usado luego en los teléfonos móviles y, posteriormente, en <i>tablets</i>; su anuncio y lanzamiento fue hecho en el año 2007 y ya para el año 2008 fue liberado. El conjunto de aplicaciones que están hechas para un sistema operativo Android, se escriben y desarrollan en Java, sin embargo, cuenta con APIS propias.
       div(titulo="iOS")
         .row
           .col-4.col-lg-3.offset-4.offset-lg-0.align-self-center
             figure
               img(src="@/assets/template/tema-3-16.png", alt="Texto que describa la imagen")
           .col-12.col-lg-9
-            p iOS es el sistema operativo para iPhone, el iPad, el iPod Touch o el Apple TV. Cada año, Apple lanza una gran actualización de iOS que suele traer características exclusivas para los dispositivos, basado en el concepto de manipulación directa, es decir, que el usuario puede interactuar directamente con la pantalla del dispositivo por medio de gestos multitáctiles como toques, pellizcos y deslices. Se ha denominado iPhone OS, y ha sido introducido por la compañía Apple, pero de manera inicial estaba destinado al iPhone, y luego se usó en el iPod Touch y en el iPad. Es un derivado de Mac OS X, que se lanzó en el año 2007, aumentó el interés con el iPod Touch e iPad que son dispositivos con las capacidades multimedia del iPhone, pero sin la capacidad de hacer llamadas telefónicas; en sí su principal revolución es una combinación casi perfecta entre hardware y software. El sistema iOS es de código cerrado exclusivamente para los dispositivos móviles Apple.
+            p iOS es el sistema operativo para iPhone, el iPad, el iPod Touch o el Apple TV. Cada año, Apple lanza una gran actualización de iOS que suele traer características exclusivas para los dispositivos, basado en el concepto de manipulación directa, es decir, que el usuario puede interactuar directamente con la pantalla del dispositivo por medio de gestos multitáctiles como toques, pellizcos y deslices. Se ha denominado iPhone OS, y ha sido introducido por la compañía Apple, pero de manera inicial estaba destinado al iPhone, y luego se usó en el iPod Touch y en el iPad. Es un derivado de Mac OS X, que se lanzó en el año 2007, aumentó el interés con el iPod Touch e iPad que son dispositivos con las capacidades multimedia del iPhone, pero sin la capacidad de hacer llamadas telefónicas; en sí su principal revolución es una combinación casi perfecta entre <i>hardware</i> y <i>software</i>. El sistema iOS es de código cerrado exclusivamente para los dispositivos móviles Apple.
     .row.mt-5
       .col-10.offset-1
         .tarjeta.bg-amarillo-degradado.p-3.mb-5
@@ -92,8 +92,8 @@
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
-                      .h4.mb-0.text-small Conozca principales sistemas operativos y caracteristicas
-                      p.text-small y conozca detalles específicos de los sistemas operativos mencionados en este punto y que han impactado significativamente el mercado tecnológico.  
+                      .h4.mb-0.text-small Anexo 1. Conozca principales sistemas operativos y caracteristicas
+                      p.text-small Visite el Anexo_1_PrincipalesSOyCaracteristicas y conozca detalles específicos de los sistemas operativos mencionados en este punto y que han impactado significativamente el mercado tecnológico.  
                 .col-sm-auto
                   a.boton.bg-azul(:href="obtenerLink('/downloads/Principales_Sistemas_Operativos.pdf')" target="_blank")
                     span Descargar
@@ -102,14 +102,14 @@
       #t_3_3.h4 3.3 	Componentes del Sistema operativo móvil 
     .row.mt-4
       .col-12.col-lg-8
-        p Se conoce que los SO móviles cuentan con capas específicas, lo cual no define o determina qué otro tipo de sistemas operativos funcionen de la misma manera; ello está más determinado por su modo de funcionamiento. El núcleo del sistema operativo se encarga de administrar aquellos elementos de hardware del teléfono móvil. La capa del middleware, conocida también como intermediador de aplicaciones del SO, son diferentes programas o módulos que permiten el uso de aplicaciones, librerías, entre otras. Para que un smartphone funcione correctamente, la capa de administración de aplicaciones se encarga de ejecutar, detener y finalizar las aplicaciones del SO y, finalmente, es la interfaz la que administra el uso que la persona hace de su teléfono móvil, bien sea un teléfono con servicio de pantalla sensible al tacto (touch) o con servicio de teclado QWERTY.
-      .col-4.offset-4.offset-lg-0.align-self-center
+        p Se conoce que los SO móviles cuentan con capas específicas, lo cual no define o determina qué otro tipo de sistemas operativos funcionen de la misma manera; ello está más determinado por su modo de funcionamiento. El núcleo del sistema operativo se encarga de administrar aquellos elementos de hardware del teléfono móvil. La capa del <i>middleware</i>, conocida también como intermediador de aplicaciones del SO, son diferentes programas o módulos que permiten el uso de aplicaciones, librerías, entre otras. Para que un <i>smartphone</i> funcione correctamente, la capa de administración de aplicaciones se encarga de ejecutar, detener y finalizar las aplicaciones del SO y, finalmente, es la interfaz la que administra el uso que la persona hace de su teléfono móvil, bien sea un teléfono con servicio de pantalla sensible al tacto <i>(touch)</i> o con servicio de teclado <i>QWERTY</i>.
+      .col-12.offset-lg-0.align-self-center
         figure
           img(src="@/assets/template/tema-3-18.png", alt="Texto que describa la imagen")
     .row.mt-4
       .col-10.offset-1
         LineaTiempoD.color-acento-botones
-          .row(numero="1" titulo="Núcleo o kernel ")
+          .row(numero="1" titulo="Núcleo o kernel")
             .col-2.col-lg-2.align-self-center
               figure
                 img(src="@/assets/template/tema-3-19.svg", alt="Texto que describa la imagen").m-0-auto.w-75
@@ -120,13 +120,13 @@
               figure
                 img(src="@/assets/template/tema-3-20.svg", alt="Texto que describa la imagen").m-0-auto.w-75
             .col-10.col-lg-10
-              p Es el conjunto de módulos que hacen posible la existencia de aplicaciones para móviles. Es totalmente transparente para el usuario y ofrece servicios clave como el motor de mensajería y comunicaciones, códecs multimedia, intérpretes de páginas web, gestión del dispositivo y seguridad.
+              p Es el conjunto de módulos que hacen posible la existencia de aplicaciones para móviles. Es totalmente transparente para el usuario y ofrece servicios clave como el motor de mensajería y comunicaciones, <i>códecs</i> multimedia, intérpretes de páginas web, gestión del dispositivo y seguridad.
           .row(numero="3" titulo="Entorno de ejecución de aplicaciones")
             .col-2.col-lg-2.align-self-center
               figure
                 img(src="@/assets/template/tema-3-21.svg", alt="Texto que describa la imagen").m-0-auto.w-75
             .col-10.col-lg-10
-              p Este entorno consiste en un gestor de aplicaciones y un conjunto de interfaces programables y programables abiertas, por parte de los desarrolladores para facilitar la creación de software.
+              p Este entorno consiste en un gestor de aplicaciones y un conjunto de interfaces programables y programables abiertas, por parte de los desarrolladores para facilitar la creación de <i>software</i>.
           .row(numero="4" titulo="Interfaz de usuario")
             .col-2.col-lg-2.align-self-center
               figure
@@ -186,7 +186,7 @@ export default {
       {
         titulo: 'Sistemas operativos multiforma',
         texto:
-          'El Harmony OS fue anunciado en 2019, es un sistema operativo multiplataforma, es decir, que no solo funcionará en smartphones, sino también con smartwatchs, auriculares inalámbricos, laptops, tablets y con el internet de las cosas. Es muy poco lo que se conoce hasta ahora, solo que se liberó el código fuente en china.',
+          'El Harmony OS fue anunciado en 2019, es un sistema operativo multiplataforma, es decir, que no solo funcionará en <i>smartphones</i>, sino también con <i>smartwatchs</i>, auriculares inalámbricos, laptops, <i>tablets</i> y con el internet de las cosas. Es muy poco lo que se conoce hasta ahora, solo que se liberó el código fuente en china.',
         imagen: require('@/assets/template/tema-3-8.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

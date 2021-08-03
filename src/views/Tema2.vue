@@ -9,7 +9,7 @@
     .row.mt-4
       .col-12.col-lg-9.align-self-center
         p La primera red celular fue implementada en el año 1977 en la ciudad de Chicago; para el año 1978 esta red inició su funcionamiento y ya contaba aproximadamente con 1.300 usuarios conectados. Seguidamente en el año 1979 se inició en Japón la primera red 1G nacional que fue lanzada por NTT (Nippon Telegraph and Telephone Corporation). Estos fueron los primeros pasos que se dieron para iniciar la transformación digital móvil. Desde ese momento los dispositivos móviles de comunicación o teléfonos móviles se convirtieron en la mayor demanda mundial de tecnología y lo siguen siendo en este momento, gracias a su evolución, transformación y uso en general
-      .col-4.col-lg-3.offset-4.offset-lg-0
+      .col-12.col-lg-3.offset-lg-0
         figure
           img(src="@/assets/template/tema-2-1.svg", alt="Texto que describa la imagen")
     .row.mt-5
@@ -38,7 +38,7 @@
             figure
               img(src="@/assets/template/tema-2-5.png", alt="Texto que describa la imagen")
           .col-12.col-lg-10
-            p El inicio de la tercera generación se marca en al año 2001; fue implementada en Japón por NTT DoCoMo en el estándar WCDMA (Wideband Code Division Multiple Access, en español acceso múltiple por división de código de banda ancha). Esta tercera generación se dividió en 3.5G (H o 3G+) y luego el HSPAP (H+), que eran algunas mejoras implementadas en el acceso de paquetes de alta velocidad (HSPA), lo que permite a las redes UMTS (Universal Mobile Telecommunications System o sistema universal de telecomunicaciones móviles) alcanzar mayores velocidades de transferencia de datos. Esta generación alcanzó velocidades de hasta 2 Mbps, con ella llegaron los smartphones y fue posible ver videos, realizar videoconferencias y creció exponencialmente la industria móvil.
+            p El inicio de la tercera generación se marca en al año 2001; fue implementada en Japón por NTT DoCoMo en el estándar WCDMA (Wideband Code Division Multiple Access, en español acceso múltiple por división de código de banda ancha). Esta tercera generación se dividió en 3.5G (H o 3G+) y luego el HSPAP (H+), que eran algunas mejoras implementadas en el acceso de paquetes de alta velocidad (HSPA), lo que permite a las redes UMTS (Universal Mobile Telecommunications System o sistema universal de telecomunicaciones móviles) alcanzar mayores velocidades de transferencia de datos. Esta generación alcanzó velocidades de hasta 2 Mbps, con ella llegaron los <i>smartphones</i> y fue posible ver videos, realizar videoconferencias y creció exponencialmente la industria móvil.
       div(titulo="G4")
         .row
           .col-4.col-lg-2.offset-4.offset-lg-0
