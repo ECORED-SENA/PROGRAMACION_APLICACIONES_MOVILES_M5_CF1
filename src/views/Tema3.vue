@@ -17,7 +17,7 @@
              figure 
               img(src="@/assets/template/tema-3-2.svg", alt="Texto que describa la imagen")
             .col-12.col-lg-8
-              p.text-small Estos SO están diseñados y enfocados en la realización de la integración de los componentes físicos, el hardware, y mejorar el rendimiento de sus componentes más relevantes como, por ejemplo, la batería. 
+              p.text-small Estos SO están diseñados y enfocados en la realización de la integración de los componentes físicos, el <i>hardware</i>, y mejorar el rendimiento de sus componentes más relevantes como, por ejemplo, la batería. 
     .titulo-segundo.mt-5
       #t_3_1.h4 3.1 	Historia de los sistemas operativos
     p.mt-5 Con el desarrollo y la evolución de los dispositivos móviles se generó una gran necesidad por los sistemas operativos para dispositivos móviles.
@@ -42,7 +42,7 @@
             figure
               img(src="@/assets/template/tema-3-11.png", alt="Texto que describa la imagen")
           .col-12.col-lg-9
-            p Es desarrollado por Mozilla Corporation bajo el apoyo de otras empresas como Telefónica y una gran comunidad de voluntarios de todo el mundo. Es un sistema operativo móvil, fundamentado en HTML5 con núcleo Linux, de código abierto, para <i>smartphones</i>y tabletas. Este sistema operativo está enfocado especialmente en los dispositivos móviles incluidos los de gama baja. Está diseñado para permitir a las aplicaciones HTML5 comunicarse directamente con el hardware del dispositivo usando JavaScript y Open Web APIs. Ha sido montado en <i>smartphones</i>y Raspberry Pi, compatibles con Adroid.
+            p Es desarrollado por Mozilla Corporation bajo el apoyo de otras empresas como Telefónica y una gran comunidad de voluntarios de todo el mundo. Es un sistema operativo móvil, fundamentado en HTML5 con núcleo Linux, de código abierto, para <i>smartphones</i>y tabletas. Este sistema operativo está enfocado especialmente en los dispositivos móviles incluidos los de gama baja. Está diseñado para permitir a las aplicaciones HTML5 comunicarse directamente con el <i>hardware</i> del dispositivo usando JavaScript y Open Web APIs. Ha sido montado en <i>smartphones</i> y Raspberry Pi, compatibles con Android.
       div(titulo="BlackBerry")
         .row
           .col-4.col-lg-3.offset-4.offset-lg-0.align-self-center
@@ -93,29 +93,29 @@
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
                       .h4.mb-0.text-small Anexo 1. Conozca principales sistemas operativos y caracteristicas
-                      p.text-small Visite el Anexo_1_PrincipalesSOyCaracteristicas y conozca detalles específicos de los sistemas operativos mencionados en este punto y que han impactado significativamente el mercado tecnológico.  
+                      p.text-small y conozca detalles específicos de los sistemas operativos mencionados en este punto y que han impactado significativamente el mercado tecnológico.  
                 .col-sm-auto
                   a.boton.bg-azul(:href="obtenerLink('/downloads/Principales_Sistemas_Operativos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     .titulo-segundo.mt-5
-      #t_3_3.h4 3.3 	Componentes del Sistema operativo móvil 
+      #t_3_3.h4 3.3 Componentes del Sistema operativo móvil 
     .row.mt-4
       .col-12.col-lg-8
-        p Se conoce que los SO móviles cuentan con capas específicas, lo cual no define o determina qué otro tipo de sistemas operativos funcionen de la misma manera; ello está más determinado por su modo de funcionamiento. El núcleo del sistema operativo se encarga de administrar aquellos elementos de hardware del teléfono móvil. La capa del <i>middleware</i>, conocida también como intermediador de aplicaciones del SO, son diferentes programas o módulos que permiten el uso de aplicaciones, librerías, entre otras. Para que un <i>smartphone</i> funcione correctamente, la capa de administración de aplicaciones se encarga de ejecutar, detener y finalizar las aplicaciones del SO y, finalmente, es la interfaz la que administra el uso que la persona hace de su teléfono móvil, bien sea un teléfono con servicio de pantalla sensible al tacto <i>(touch)</i> o con servicio de teclado <i>QWERTY</i>.
+        p Se conoce que los SO móviles cuentan con capas específicas, lo cual no define o determina qué otro tipo de sistemas operativos funcionen de la misma manera; ello está más determinado por su modo de funcionamiento. El núcleo del sistema operativo se encarga de administrar aquellos elementos de <i>hardware</i> del teléfono móvil. La capa del <i>middleware</i>, conocida también como intermediador de aplicaciones del SO, son diferentes programas o módulos que permiten el uso de aplicaciones, librerías, entre otras. Para que un <i>smartphone</i> funcione correctamente, la capa de administración de aplicaciones se encarga de ejecutar, detener y finalizar las aplicaciones del SO y, finalmente, es la interfaz la que administra el uso que la persona hace de su teléfono móvil, bien sea un teléfono con servicio de pantalla sensible al tacto <i>(touch)</i> o con servicio de teclado <i>QWERTY</i>.
       .col-12.offset-lg-0.align-self-center
         figure
           img(src="@/assets/template/tema-3-18.png", alt="Texto que describa la imagen")
     .row.mt-4
       .col-10.offset-1
         LineaTiempoD.color-acento-botones
-          .row(numero="1" titulo="Núcleo o kernel")
+          .row(numero="1" titulo="Núcleo o <i>kernel</i>")
             .col-2.col-lg-2.align-self-center
               figure
                 img(src="@/assets/template/tema-3-19.svg", alt="Texto que describa la imagen").m-0-auto.w-75
             .col-10.col-lg-10
-              p Se trata de una parte del sistema operativo que concede varios servicios de conexión a las capas superiores como, por ejemplo, los drives o controladores para el hardware, para la gestión de procesos, para el ingreso a la información de la memoria y gestión de la misma. Este núcleo, permite el acceso a diferentes elementos del hardware del dispositivo.
-          .row(numero="2" titulo="Middleware")
+              p Se trata de una parte del sistema operativo que concede varios servicios de conexión a las capas superiores como, por ejemplo, los drives o controladores para el <i>hardware</i>, para la gestión de procesos, para el ingreso a la información de la memoria y gestión de la misma. Este núcleo, permite el acceso a diferentes elementos del <i>hardware</i> del dispositivo.
+          .row(numero="2" titulo="<i>Middleware</i>")
             .col-2.col-lg-2.align-self-center
               figure
                 img(src="@/assets/template/tema-3-20.svg", alt="Texto que describa la imagen").m-0-auto.w-75
@@ -143,15 +143,18 @@
 </template>
 
 <script>
+import LineaTiempoD from '../components/LineaTiempoD'
 export default {
   name: 'Tema3',
-  components: {},
+  components: {
+    LineaTiempoD,
+  },
   data: () => ({
     datosSlyder: [
       {
         titulo: 'Encargo general',
         texto:
-          'Los sistemas operativos son los encargados de administrar el hardware de las tabletas, smartphones, relojes; estos sistemas operativos buscan priorizar la movilidad, la conectividad inalámbrica, la administración del procesamiento, almacenamiento y el consumo de energía.',
+          'Los sistemas operativos son los encargados de administrar el <i>hardware</i> de las tabletas, <i>smartphones</i>, relojes; estos sistemas operativos buscan priorizar la movilidad, la conectividad inalámbrica, la administración del procesamiento, almacenamiento y el consumo de energía.',
         imagen: require('@/assets/template/tema-3-3.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -264,10 +264,10 @@
             .col-12.col-lg-9
               p Son computadores completos que, debido a su tamaño reducido y compacto, permiten su transporte y su uso sin necesidad de tener una conexión eléctrica continua.
     .titulo-segundo.mt-5
-      #t_1_5.h4 1.5 	Teléfonos inteligentes o smartphones
+      #t_1_5.h4 1.5 	Teléfonos inteligentes o <i>smartphones</i>
     figure.mt-4
       img(src="@/assets/template/tema-1-36.png", alt="Texto que describa la imagen")
-    p.mt-4 En este apartado se expondrá sobre los teléfonos inteligentes o smartphones para profundizar en sus características y componentes, ya que el enfoque de desarrollo de aplicaciones se centra sobre estos elementos electrónicos.
+    p.mt-4 En este apartado se expondrá sobre los teléfonos inteligentes o <i>smartphones</i> para profundizar en sus características y componentes, ya que el enfoque de desarrollo de aplicaciones se centra sobre estos elementos electrónicos.
     .row.mt-4
       .col-10.offset-1
         .cajon.color-acento-botones.p-4.mb-4.bg-amarillo-claro
