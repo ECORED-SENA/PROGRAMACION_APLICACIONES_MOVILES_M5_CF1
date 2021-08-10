@@ -92,7 +92,7 @@
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
-                      .h4.mb-0.text-small Anexo 1. Conozca principales sistemas operativos y caracteristicas
+                      .h4.mb-0.text-small Visite el Anexo 1. Principales sistemas operativos y características
                       p.text-small y conozca detalles específicos de los sistemas operativos mencionados en este punto y que han impactado significativamente el mercado tecnológico.  
                 .col-sm-auto
                   a.boton.bg-azul(:href="obtenerLink('/downloads/Principales_Sistemas_Operativos.pdf')" target="_blank")
