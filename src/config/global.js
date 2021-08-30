@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Introducción desarrollo de aplicaciones móviles',
+        titulo: 'Introducción al desarrollo de aplicaciones móviles',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -131,17 +131,17 @@ export default {
   referencias: [
     {
       referencia:
-        'Acontecimientos importantes. (2020). <i>La evolución de tecnología móviles o celulares 1g 2g 3g 4g 5g.</i> [Video]. YouTube.',
+        'Acontecimientos importantes. (2020). <i>La evolución de tecnología móviles o celulares 1g 2g 3g 4g 5g.</i> [Video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=zGJQJlGIKcQ  ',
     },
     {
       referencia:
-        'Agtechnology.net (2015). <i>Generaciones de teléfonos celulares.</i>  [Video]. YouTube.',
+        'Agtechnology.net (2015). <i>Generaciones de teléfonos celulares.</i>  [Video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=VggUrZEvHK4',
     },
     {
       referencia:
-        'Entorno simple. (2020). <i>Breve historia y evolución del celular. [Video]. YouTube</i>',
+        'Entorno simple. (2020). <i>Breve historia y evolución del celular. [Video]. YouTube.</i> ',
       link: 'https://www.youtube.com/watch?v=PvUomnZWADA',
     },
     {
@@ -190,7 +190,7 @@ export default {
     },
     {
       texto:
-        'Escoin, A. (2014).<i>La generación del móvil</i>. [Video]. Youtube.',
+        'Escoin, A. (2014). <i>La generación del móvil</i>. [Video]. Youtube.',
       tipo: 'Vídeo',
       link: 'https://www.youtube.com/watch?v=NhnZ_2Xu9RQ',
     },

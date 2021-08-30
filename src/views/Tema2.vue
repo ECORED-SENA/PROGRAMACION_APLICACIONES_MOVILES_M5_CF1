@@ -24,14 +24,14 @@
           figure
             img(src="@/assets/template/tema-2-3.png", alt="Texto que describa la imagen")
         .col-12.col-lg-10
-          p Fue la primera red celular comercial en 1979 en Japón. Continuó su implementación en Dinamarca, Finlandia, Noruega y Suecia en 1981 por la empresa Telefonía Móvil Nórdica (NMT); de esta manera, se siguió implementando en otros países; inició como una red celular analógica. Estos sistemas de primera generación (1G) con su tecnología sólo permitían comunicaciones de voz móvil sobre una plataforma tecnológica analógica, sin mecanismos de seguridad sobre la comunicación. No existía el servicio de datos móviles.
+          p Fue la primera red celular comercial en 1979 en Japón. Continuó su implementación en Dinamarca, Finlandia, Noruega y Suecia en 1981 por la empresa Telefonía Móvil Nórdica (NMT); de esta manera, se siguió implementando en otros países; inició como una red celular analógica. Estos sistemas de primera generación (1G) con su tecnología solo permitían comunicaciones de voz móvil sobre una plataforma tecnológica analógica, sin mecanismos de seguridad sobre la comunicación. No existía el servicio de datos móviles.
       div(titulo="G2")
         .row
           .col-4.col-lg-2.offset-4.offset-lg-0
             figure
               img(src="@/assets/template/tema-2-4.png", alt="Texto que describa la imagen")
           .col-12.col-lg-10
-            p La implementación de esta red de segunda generación se marca en el año 1991; esta segunda generación inicia en Finlandia por Radiolinja, en el estándar GSM. Tenía servicios de mensajes de texto y permitía la implementación de procesos de cifrado aportando un nivel básico de seguridad a las comunicaciones. También, permitió el envió de mensajes de texto y multimedia.
+            p La implementación de esta red de segunda generación se marca en el año 1991; esta segunda generación inicia en Finlandia por Radiolinja, en el estándar GSM. Tenía servicios de mensajes de texto y permitía la implementación de procesos de cifrado aportando un nivel básico de seguridad a las comunicaciones. También, permitió el envío de mensajes de texto y multimedia.
       div(titulo="G3")
         .row
           .col-4.col-lg-2.offset-4.offset-lg-0
@@ -52,7 +52,7 @@
             figure
               img(src="@/assets/template/tema-2-7.png", alt="Texto que describa la imagen")
           .col-12.col-lg-10
-            p Inicia en el año 2019 es una tecnología experimental con proyecciones a expandirse en el transcurso de la década de 2020. Busca que los usuarios tengan servicio de internet sin interrupciones y esperan alcanzar velocidades de hasta 10Gbps.
+            p Inicia en el año 2019 es una tecnología experimental con proyecciones a expandirse en el transcurso de la década de 2020. Busca que los usuarios tengan servicio de internet sin interrupciones y esperan alcanzar velocidades de hasta 10 Gbps.
 
 
 
